@@ -1,0 +1,17 @@
+src,dst,relationship,cost
+Hyderabad,Mahabubnagar,Road,98
+Mahabubnagar,Raichur,Road,106
+Raichur,Sindhanur,Road,91
+Sindhanur,Dharwad,Road,210
+Dharwad,Goa,Road,163
+Hyderabad,Zaheerabad,Road,113
+Zaheerabad,Kalaburagi,Road,116
+Kalaburagi,Bagalkot,Road,219
+Bagalkot,Belgaum,Road,141
+Belgaum,Mollem,Road,79
+Mollem,Goa,Road,42
+Mahabubnagar,Kurnool,Road,125
+Kurnool,Ballari,Road,149
+Ballari,Hospet,Road,62
+Hospet,Hubli,Road,150
+Hubli,Dharwad,Road,179
